@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 
 import '../assets/styles/normalize.css';
 import '../assets/styles/styles.css';
-import '../assets/styles/myStyles.scss';
 
 @Component({
   selector: 'my-app',
